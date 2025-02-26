@@ -72,3 +72,12 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Stelle sicher, dass wichtige Unreal-Ordner nicht ignoriert werden
+!Content/
+!Content/**
+!Maps/
+!Maps/**
+!Blueprints/
+!Blueprints/**
+
