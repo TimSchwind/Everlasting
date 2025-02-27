@@ -52,7 +52,7 @@ The core of the game is an **immersive experience** with a focus on **cinematic 
 
 ---
 
-## 🏗️ **Project Structure**
+🏗️ **Project Structure**
 
 Content/
 ├── Blueprints/          → Logic for gameplay, controls, AI
