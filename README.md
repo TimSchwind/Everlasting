@@ -54,6 +54,7 @@ The core of the game is an **immersive experience** with a focus on **cinematic 
 
 🏗️ **Project Structure**
 
+```
 Content/
 ├── Blueprints/          → Logic for gameplay, controls, AI
 │   ├── Characters/      → Heroes & NPC logic
@@ -116,7 +117,8 @@ Content/
     ├── DialogueScenes/  → Possible dialogue sequences
     ├── CameraAnims/     → Special camera movements
     └── MotionCapture/   → In case I use MetaHuman Animator
----
+```
+
 
 ## 🚀 **Setup & Installation**
 ### **1️⃣ Clone the Repository**
